@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="FinalProject.UpdateCatalogItem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowSizeContent}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="*"/>
+            <ColumnDefinition Width ="*"/>
+            <ColumnDefinition Width ="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.ColumnSpan="3" Background= "#74D3AE">
+            <Button Style="{StaticResource InvisibleBtn}" Click="Go_Back_Click" HorizontalAlignment="Left">
+                <Image Source="D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Arrow_Icon.png"/>
+            </Button>
+        </Border>
+
+        <TextBlock Style="{StaticResource InvisibleTextBlock}" Grid.Row="1" Grid.ColumnSpan="3" FontSize="70" HorizontalAlignment="Center" >Update Catalog Item Details</TextBlock>
+
+        <Border  Style="{StaticResource LoginBtnBorder}" Grid.Row="2" Grid.ColumnSpan="3" Margin="100,10,100,10" >
+            <TextBox Name ="TitleBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" KeyDown="Text_Box_Entry" KeyUp="Empty_Box"/>
+        </Border>
+
+        <Border    Style="{StaticResource LoginBtnBorder}" Grid.Row="3" Grid.ColumnSpan="3" Margin="100,10,100,10" >
+            <TextBox Name ="AuthorFirstNameBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" KeyDown="Text_Box_Entry" KeyUp="Empty_Box"/>
+        </Border>
+
+
+
+        <Border  Style="{StaticResource LoginBtnBorder}" Grid.Row="4" Grid.ColumnSpan="3" Margin="100,10,100,10" >
+            <TextBox Name ="AuthorLastNameBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" KeyDown="Text_Box_Entry" KeyUp="Empty_Box"/>
+        </Border>
+
+        <Border Style="{StaticResource LoginBtnBorder}" Grid.Row="5" Grid.ColumnSpan="3" Margin="100,10,100,10" >
+            <TextBox Name ="DescriptionBox"  Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" KeyDown="Text_Box_Entry" KeyUp="Empty_Box"/>
+        </Border>
+
+        <Border  Style="{StaticResource LoginBtnBorder}" Grid.Row="6" Grid.ColumnSpan="3" Margin="100,10,100,10" >
+            <TextBox Name = "YearBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" KeyDown="Text_Box_Entry" KeyUp="Empty_Box"/>
+        </Border>
+
+        <ListBox Name= "GenreBox" Grid.Row="7" Margin="100, 10,0, 10"  SelectionMode="Single"/>
+        <ListBox Name= "Genre2Box" Grid.Row="7" Grid.Column="1" Margin="50, 10,50, 10"   SelectionMode="Single"/>
+        <ListBox Name="MediaBox" Grid.Row="7" Grid.Column="2"  Margin="0, 10, 100,10"   SelectionMode="Single"/>
+
+        <Border Style="{StaticResource LoginBtnBorder}" Grid.Row="8" Grid.ColumnSpan="3" Margin="100,10,100,10" >
+            <TextBox Name= "ImageBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" KeyDown="Text_Box_Entry" KeyUp="Empty_Box"/>
+        </Border>
+
+        <Button Name ="Submit_Button" Style="{StaticResource LoginBtn}" Grid.Row="9" Grid.ColumnSpan="3" Margin="400,30,400,30" Click="Submit_Button_Click"  Content="Replace Existing Details"/>
+
+
+    </Grid>
+
+
+
+</UserControl>

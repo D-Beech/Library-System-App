@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\270298599\\source\\repos\\Datu_Beech_CS106.2\\Library_System_Application\\FinalProject\\FinalProject.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\270298599\\source\\repos\\Datu_Beech_CS106.2\\Library_System_Application\\FinalProject\\FinalProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\270298599\\source\\repos\\Datu_Beech_CS106.2\\Library_System_Application\\FinalProject\\FinalProject.csproj",
+        "projectName": "FinalProject",
+        "projectPath": "D:\\Users\\270298599\\source\\repos\\Datu_Beech_CS106.2\\Library_System_Application\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "D:\\Users\\270298599\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\270298599\\source\\repos\\Datu_Beech_CS106.2\\Library_System_Application\\FinalProject\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\270298599\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

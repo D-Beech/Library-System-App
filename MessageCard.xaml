@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="FinalProject.MessageCard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Background="Transparent" Height="130" Width="700" Margin="10,10" >
+
+    <Border BorderThickness="0" CornerRadius="30" Background="white" >
+        <Button Name ="Expand_Btn" Style="{StaticResource InvisibleBtn}" FontSize="15" Click ="Edit_Click">
+            <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height ="1*"/>
+                <RowDefinition Height ="3*"/>
+            </Grid.RowDefinitions>
+
+        <TextBlock Style="{StaticResource InvisibleTextBlock}" Name ="Header" Foreground="Black" FontWeight="Bold"/>
+        <TextBlock Style="{StaticResource InvisibleTextBlock}" Name ="Details" Grid.Row="2" Foreground="Black"/>
+    </Grid>
+            </Button>
+
+    </Border>
+</UserControl>

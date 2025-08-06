@@ -1,0 +1,78 @@
+﻿<UserControl x:Class="FinalProject.Book_Screen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Name="Book_Screen_Name" Style="{StaticResource WindowSizeContent}" Background="Salmon">
+
+    <UserControl.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="#1a1a18"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <!--Start of Image -->
+        <Image Name="ImageBox" Grid.Column="1" Grid.Row="1" Grid.RowSpan="7" HorizontalAlignment="Left" Source="D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Book_Icon.png">
+        </Image>
+        <!--End of Image -->
+
+        <!--Start of Text-->
+        <TextBlock Name ="TitleHeader" Grid.Column="2" Grid.Row="1" FontSize="22">Title:</TextBlock>
+        <TextBlock Name ="TitleBlock" Grid.Column="3" Grid.Row="1" FontSize="22">Title:</TextBlock>
+
+        <TextBlock Name ="AuthorHeader" Grid.Column="2" Grid.Row="2" FontSize="22">Author:</TextBlock>
+        <TextBlock Name ="AuthorBlock" Grid.Column="3" Grid.Row="2" FontSize="22">Author:</TextBlock>
+
+        <TextBlock Name ="DescriptionHeader" Grid.Column="2" Grid.Row="3" FontSize="22">Description:</TextBlock>
+        <TextBlock Name ="DescriptionBlock" Grid.Column="3" Grid.Row="3" FontSize="22">Description:</TextBlock>
+
+        <TextBlock Name ="GenreHeader" Grid.Column="2" Grid.Row="4" FontSize="22">Genre:</TextBlock>
+        <TextBlock Name ="GenreBlock" Grid.Column="3" Grid.Row="4" FontSize="22">Genre:</TextBlock>
+
+        <TextBlock Name ="YearHeader" Grid.Column="2" Grid.Row="5" FontSize="22">Year:</TextBlock>
+        <TextBlock Name ="YearBlock" Grid.Column="3" Grid.Row="5" FontSize="22">Year</TextBlock>
+
+        <TextBlock Name ="ReservationHeader" Grid.Column="2" Grid.Row="6" FontSize="22">Availability:</TextBlock>
+        <TextBlock Name ="ReservationBlock" Grid.Column="3" Grid.Row="6" FontSize="22"> Reservation:</TextBlock>
+        <!--End of Text-->
+
+        <!--Start of Buttons-->
+
+        <Button Name ="ReservationToggle" Style ="{StaticResource LoginBtn}" Grid.Column="3" Grid.Row="7" Click="Reserve_Click"  Margin="20">Reserve This Book</Button>
+
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.Column="4" Grid.RowSpan="2" FontSize="40" FontWeight="Bold"  Click="Button_Click">
+            X
+        </Button>
+
+        <!--End of Buttons-->
+
+
+    </Grid>
+
+
+</UserControl>

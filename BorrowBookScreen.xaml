@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="FinalProject.BorrowBookScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowSizeContent}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="*"/>
+            <ColumnDefinition Width ="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+
+            <RowDefinition Height="2*"/>
+
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+
+            <RowDefinition Height="*"/>
+
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.ColumnSpan="2" Background="#74D3AE">
+            <Button Style="{StaticResource InvisibleBtn}" Click="Go_Back_Click" HorizontalAlignment="Left">
+                <Image Source="D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\Icons\Arrow_Icon.png"/>
+            </Button>
+        </Border>
+
+        <TextBlock Name ="NameBox" Style="{StaticResource InvisibleTextBlock}"   Grid.ColumnSpan="2" VerticalAlignment="Center" Grid.Row="1" Grid.RowSpan="2" FontSize="50">Withdraw a Book For A Member</TextBlock>
+
+        <Image  Grid.Row="3" Grid.RowSpan="3" Margin="0">
+            <Image.Source>
+                D:\Users\270298599\source\repos\FinalProject\FinalProject\Icons\Book_Icon.png
+            </Image.Source>
+        </Image>
+
+        <Border Style="{StaticResource LoginBtnBorder}" Grid.Row="3" Grid.Column="1"  Margin="50,10,250,10" >
+            <TextBox Name= "BookIdBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" Text="Book Id" KeyUp="Key_Up" KeyDown="Text_Box_Entry"/>
+        </Border>
+
+        <Border Style="{StaticResource LoginBtnBorder}" Grid.Row="4" Grid.Column="1"   Margin="50,10,250,10"  >
+            <TextBox Name ="MemberIdBox" Style="{StaticResource LoginTextBox}" VerticalAlignment="Center" FontSize="20" Text="MemberID" Tag="MemberID" KeyUp="Key_Up" KeyDown="Text_Box_Entry"/>
+        </Border>
+
+
+
+        <Button Name ="Submit_Button" Style="{StaticResource LoginBtn}" Grid.Column="1" Grid.Row="5" Margin="50,10,250,10" Click="Submit_Button_Click"  Content="Withdraw Item For A Member"/>
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\Properties\PublishProfiles\Library_System_1.1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddCatalogItemScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddMember.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AllUserAccounts.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookTitleClickable.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Book_Screen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BorrowBookScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Catalog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ItemCard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LogIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MemberMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MessageCard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MyAccount.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReturnItemsScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LibrarySystemMessages.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateCatalogItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddCatalogItemScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddMember.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AllUserAccounts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookTitleClickable.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Book_Screen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BorrowBookScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Catalog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ItemCard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LogIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MemberMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MessageCard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MyAccount.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReturnItemsScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LibrarySystemMessages.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateCatalogItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

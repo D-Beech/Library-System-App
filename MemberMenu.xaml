@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="FinalProject.MemberMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowSizeContent}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="0.6*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.8*"/>
+        </Grid.RowDefinitions>
+
+        <!--To Catalog Buttons Start-->
+
+        <Button Style ="{StaticResource InvisibleBtn}" Grid.Column ="0" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="3" Margin="70,0,0,0"  Click="Button_Click">
+            <Image Margin="0" Source="D:\Users\270298599\source\repos\FinalProject\FinalProject\Icons\Book_Icon.png"/>
+        </Button>
+
+        <Button Style ="{StaticResource InvisibleBtn}" Grid.Column ="0" Grid.Row="3" Grid.ColumnSpan="3" Grid.RowSpan="3" Background="Transparent" Margin="70,40,0,0"  Click="Button_Click">
+            <TextBlock  Style="{StaticResource InvisibleTextBlock}"  FontSize="70">View Catalogue
+            </TextBlock>
+        </Button>
+        
+        
+
+        <!--To Catalog Buttons End-->
+
+        <!--To My Account Buttons Start-->
+
+        <Button  Style ="{StaticResource InvisibleBtn}" Grid.Column ="3" Grid.Row="1" Grid.ColumnSpan="3" Grid.RowSpan="3" Margin="0,0,70,0" Click="My_Account_Click">
+            <Image Source="D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Avatar_Icon.png"/>
+        </Button>
+
+        <Button  Style ="{StaticResource InvisibleBtn}" Grid.Column ="3" Grid.Row="3" Grid.ColumnSpan="3" Grid.RowSpan="3" Background="Transparent"  Margin="0,40,70,0" Click="My_Account_Click">
+            <TextBlock Style="{StaticResource InvisibleTextBlock}"  FontSize="70">My Account
+            </TextBlock>
+        </Button>
+
+        <!--To My Account Buttons End-->
+
+        <!--Bottom Account Details/Signup Start-->
+
+        <TextBlock Name ="NameBox" Style="{StaticResource InvisibleTextBlock}"  Grid.Column="2" Grid.ColumnSpan="2" TextAlignment="Center" Grid.Row="6" FontSize="40">My Account</TextBlock>
+ 
+        <Button  Style ="{StaticResource InvisibleBtn}" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="7"  Click="Sign_Out_Click">
+            <TextBlock Style="{StaticResource InvisibleTextBlock}" FontSize="40">Sign Out</TextBlock>
+        </Button>
+
+        <!--Bottom Account Details/Signup End-->
+    </Grid>
+
+</UserControl>

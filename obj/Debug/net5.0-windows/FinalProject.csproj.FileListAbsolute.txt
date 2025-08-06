@@ -1,0 +1,358 @@
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.cache
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.lref
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.g.resources
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\Catalog.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\Catalog.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\Admin.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\Admin.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\ItemCard.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\ItemCard.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\Dapper.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_Content.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\Book_Screen.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\Book_Screen.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\MemberMenu.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\MemberMenu.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\MyAccount.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\MyAccount.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\bin\Debug\net5.0-windows\LibrarySystemDB.db
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddMember.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddMember.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\UIResources.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\App.baml
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\UIElementSketchpad.g.cs
+D:\Users\270298599\source\repos\FinalProject\FinalProject\obj\Debug\net5.0-windows\UIElementSketchpad.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\LibrarySystemDB.db
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\Dapper.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddMember.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\Admin.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\Book_Screen.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\Catalog.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MemberMenu.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MyAccount.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_Content.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.cache
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.lref
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\App.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddMember.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\Admin.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\Book_Screen.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\Catalog.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MemberMenu.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MyAccount.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.g.resources
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\ItemCard.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\ItemCard.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MessageCard.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\MessageCard.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\UpdateMemberInfo.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\UpdateMemberInfo.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.g.cs
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.baml
+D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\bin\Debug\net5.0-windows\Metrophobic\Metrophobic-Regular.ttf
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\LibrarySystemDB.db
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\Metrophobic\Metrophobic-Regular.ttf
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\Dapper.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddMember.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\Admin.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\Book_Screen.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\Catalog.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\ItemCard.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MemberMenu.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MessageCard.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MyAccount.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_Content.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.cache
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.lref
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\App.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\AddMember.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\Admin.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\Book_Screen.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\Catalog.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\ItemCard.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MemberMenu.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MessageCard.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\MyAccount.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.baml
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.g.resources
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\LogIn.g.cs
+D:\Users\270298599\source\repos\DatuPresentationFinal\FinalProject\FinalProject\obj\Debug\net5.0-windows\LogIn.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\LibrarySystemDB.db
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\Metrophobic\Metrophobic-Regular.ttf
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\Dapper.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddMember.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Admin.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Book_Screen.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Catalog.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ItemCard.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LogIn.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MemberMenu.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MessageCard.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MyAccount.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject_Content.g.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.cache
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.lref
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\App.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddMember.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Admin.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Book_Screen.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Catalog.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ItemCard.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LogIn.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MemberMenu.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MessageCard.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MyAccount.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.baml
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.g.resources
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\source\repos\Datu_Beech_CS106.2\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.exe
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\LibrarySystemDB.db
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\Metrophobic\Metrophobic-Regular.ttf
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.deps.json
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.json
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.runtimeconfig.dev.json
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\Dapper.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.csprojAssemblyReference.cache
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddMember.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Admin.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Book_Screen.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Catalog.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ItemCard.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LogIn.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MemberMenu.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MessageCard.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MyAccount.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject_Content.g.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.cache
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject_MarkupCompile.lref
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\App.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddCatalogItemScreen.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AddMember.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Admin.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\AllUserAccounts.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BookTitleClickable.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Book_Screen.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\BorrowBookScreen.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\Catalog.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ItemCard.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LibrarySystemMessages.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\LogIn.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MemberMenu.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MessageCard.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\MyAccount.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ReturnItemsScreen.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\UpdateCatalogItem.baml
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.g.resources
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.AssemblyInfo.cs
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.csproj.CopyComplete
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\ref\FinalProject.dll
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.pdb
+D:\Users\270298599\OneDrive - UP Education\Desktop\Submission_CS106.2_Datu_Beech\Library_System_Application\FinalProject\obj\Debug\net5.0-windows\FinalProject.genruntimeconfig.cache

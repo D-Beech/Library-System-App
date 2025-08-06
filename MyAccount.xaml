@@ -1,0 +1,82 @@
+﻿<UserControl x:Class="FinalProject.MyAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowSizeContent}" Background="#46583F">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition Width=".5*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--Header Go Back Button Starts-->
+
+        <Button Background="#74D3AE" Grid.ColumnSpan="5" Click="Button_Click" HorizontalContentAlignment="Left">
+            <Image >
+                <Image.Source>
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Arrow_Icon.png
+                </Image.Source>
+            </Image>
+        </Button>
+
+        <!--Header Go Back Button Ends-->
+
+        <!--Leftside Button Image Starts-->
+
+        <Image Grid.Row="4" Grid.ColumnSpan="2" Grid.RowSpan="4">
+            <Image.Source>
+                D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Avatar_Icon.png
+            </Image.Source>
+        </Image>
+
+        <!--Leftside Button Image Ends-->
+
+
+        <!--Leftside Text Headers Start-->
+     
+        <!--Leftside Text Headers End-->
+        <TextBlock Name ="NameHeader"  Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="40">Name</TextBlock>
+
+        <TextBlock  Name ="AgeHeader"  Grid.Row="3"  Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25">DOB</TextBlock>
+        <!--Rightside Text Headers Start-->
+       
+        <!--Rightside Text Headers End-->
+
+        <!--Rightside StackPanels Start-->
+
+        <ScrollViewer VerticalScrollBarVisibility="Hidden"  Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="7">
+            <StackPanel Name = "ActiveItemPanel"  Background="Transparent" >
+            <TextBlock Name ="TotalBorrowingHeader" Margin ="15"  FontSize="40">Total Items Currently Borrowing: 2</TextBlock>
+
+            <TextBlock  Name ="TotalReservedHeader" Margin ="15" FontSize="40">Total Items On Reserve: 1</TextBlock>
+
+            <TextBlock  Name ="TotalOverdueHeader" Margin ="15" FontSize="40">Total Items Overdue 3</TextBlock>
+
+            <TextBlock Name ="TotalReturnedHeader" Margin ="15"  FontSize="40">Recently Returned Items:</TextBlock>
+        </StackPanel>
+        </ScrollViewer>
+
+        <Button Name ="SwitchBtn" Style="{StaticResource InvisibleBtn}" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" Margin="10" Content="Show Messages" Click="Switch_Click" FontStyle="Italic" FontSize="30" Foreground="WhiteSmoke"/>
+        <!--Rightside StackPanels End-->
+    </Grid>
+</UserControl>

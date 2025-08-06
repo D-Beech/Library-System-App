@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="FinalProject.LogIn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FinalProject"
+             mc:Ignorable="d" 
+           Style="{StaticResource WindowSizeContent}">
+    <Grid>
+        <!-- Grid Definitions Start -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.7*"/>
+        </Grid.RowDefinitions>
+
+        <Image  Grid.Row="1" Grid.RowSpan="3" Margin="40">
+            <Image.Source>
+                D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Book_Icon.png
+            </Image.Source>
+        </Image>
+
+        <Border Style="{StaticResource LoginBtnBorder}" Grid.Row="1" Grid.Column="1" Margin="80,50, 80, 50" >
+            <TextBox Name="usernameBox" Style="{StaticResource LoginTextBox}" FontSize="40" TextAlignment="Center" VerticalAlignment="Center"  KeyDown="Text_Box_Entry" KeyUp="Key_Up"  Text="Enter Username" Tag="Enter Username"/>
+        </Border>
+
+        <Border Style="{StaticResource LoginBtnBorder}" Grid.Row="2" Grid.Column="1" Margin="80,50, 80, 50" >
+            <TextBox Name="passwordBox" Style="{StaticResource LoginTextBox}" FontSize="40" TextAlignment="Center" VerticalAlignment="Center" KeyDown="Text_Box_Entry" KeyUp="Key_Up" Text="Enter Password" Tag="Enter Password"/>
+        </Border>
+
+        <Button  Name ="logInBtn"  Style ="{StaticResource LoginBtn}" Grid.Row="3" Grid.Column="1" Click="Button_Click" Margin="80,50, 80, 50">
+            Sign In
+        </Button>
+        <!-- Grid Definitions Start ->
+        <Button Style="{StaticResource LoginBtn}" Click="TestButton" Background="Transparent" />
+        < Grid Definitions Start -->
+    </Grid>
+</UserControl>

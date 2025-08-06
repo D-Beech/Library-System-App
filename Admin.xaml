@@ -1,0 +1,143 @@
+﻿<UserControl x:Class="FinalProject.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject"       
+        mc:Ignorable="d"
+        Style="{StaticResource WindowSizeContent}">
+  
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "1*"/>
+            <RowDefinition Height= "2*"/>
+            <RowDefinition Height= "1*"/>
+            <RowDefinition Height= "1*"/>
+            <RowDefinition Height= "2*"/>
+            <RowDefinition Height= "1*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Style ="{StaticResource InvisibleTextBlock}" TextAlignment="Center" Grid.ColumnSpan="4" Foreground="White" Background ="#46583F" FontSize="70" Text ="CATALOGUE"/>
+        <TextBlock Style ="{StaticResource InvisibleTextBlock}" Grid.Row="3" Grid.ColumnSpan="5" Foreground="White" Background ="#46583F" FontSize="70" Text ="MEMBER ACCOUNTS"/>
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.Column="5" Content="Sign Out" FontSize="40" Foreground="White" Click="Button_Click"/>
+
+        <!-- Start of 1st Row Icons -->
+        <Button Grid.Row="1"  Style="{StaticResource InvisibleBtn}" Click="Add_Book_Click">
+            <Image Margin="25">
+                <Image.Source >
+                    D:\Users\270298599\source\repos\FinalProject\FinalProject\Icons\Book_Icon.png
+                </Image.Source>
+            </Image>
+           
+        </Button>
+
+        <Button Grid.Row="2"  Style="{StaticResource InvisibleBtn}" Click="Add_Book_Click" Content="Add Catalog Item">
+            
+
+        </Button>
+
+
+        <Button Style="{StaticResource InvisibleBtn}"  Grid.Row="1"  Grid.Column="1"   Click="Edit_Book_Click">
+            <Image Margin="25" Grid.RowSpan="1">
+                <Image.Source >
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Pencil_Icon.png
+                </Image.Source>
+            </Image>
+        </Button>
+
+
+        <Button Style="{StaticResource InvisibleBtn}"  Grid.Row="2"  Grid.Column="1"  Click="Edit_Book_Click" Content="Edit Catalog Item">
+            
+        </Button>
+
+
+
+
+
+
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.Row="1" Grid.Column="2" Click="Borrow_Book_Click" >
+            <Image Margin="25">
+                <Image.Source >
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Star_Icon.png
+                </Image.Source>
+            </Image>
+        </Button>
+
+        <Button Style="{StaticResource InvisibleBtn}"  Grid.Row="2"  Grid.Column="2"   Click="Borrow_Book_Click" Content="Withdrawal">
+
+        </Button>
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.Row="1" Grid.Column="3"   Click="Return_Book_Click">
+            <Image Margin="25">
+                <Image.Source >
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Star_Icon.png
+                </Image.Source>
+            </Image>
+        </Button>
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.Row="2"  Grid.Column="3"  Click="Return_Book_Click" Content="Return">
+
+        </Button>
+
+        <!-- End of 1st Row Icons -->
+        <!-- Start of 2nd Row Icons -->
+
+        <Button Grid.Row="4" Style="{StaticResource InvisibleBtn}" Grid.ColumnSpan="2" MaxWidth="384" Click="New_Member_Click">
+            <Image Margin="25">
+                <Image.Source >
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Avatar_Icon.png
+                </Image.Source>
+            </Image>
+           
+        </Button>
+
+        <Button Grid.Row="5" Style="{StaticResource InvisibleBtn}" Grid.ColumnSpan="2" MaxWidth="384" Click="New_Member_Click" Content="Add Member Account">
+            
+
+        </Button>
+
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.ColumnSpan="2" MaxWidth="384" Grid.Row="4"  Grid.Column="1"   Click="Edit_Member_Click">
+            <Image Margin="25" Grid.RowSpan="1">
+                <Image.Source>
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Pencil_Icon.png
+                </Image.Source>
+            </Image>
+        </Button>
+
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.ColumnSpan="2" MaxWidth="384" Grid.Row="5"  Grid.Column="1"  Click="Edit_Member_Click" Content="Edit Member Details">
+            
+        </Button>
+
+
+        <Button Style="{StaticResource InvisibleBtn}" Grid.ColumnSpan="2" MaxWidth="384" Grid.Row="4" Grid.Column="2"   Click="Messages_Click">
+            <Image Margin="25">
+                <Image.Source>
+                    D:\Users\270298599\source\repos\DatuProgress\FinalProject\FinalProject\Icons\Message_Icon.png
+                </Image.Source>
+            </Image>
+        </Button>
+
+        <Button Style="{StaticResource InvisibleBtn}"  Grid.ColumnSpan="2" MaxWidth="384" Grid.Row="5"  Grid.Column="2"  Click="Messages_Click" Content="Logged Messages">
+
+        </Button>
+   
+
+        <!-- End of 2nd Row Icons -->
+
+
+
+    </Grid>
+</UserControl>
